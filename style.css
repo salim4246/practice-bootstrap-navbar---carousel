@@ -1,25 +1,40 @@
-
-
-.custom-color{
-    background-color: rgb(56, 165, 56);
-}
-
-.custom-button-color{
-    color: black;
-    width: 100px;
-}
-
-.custom-h{
-    width: 800px;
-}
-
-.custom-btn{
-    width: 100px;
-    color: black;
+.navbar-brand {
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
 }
 
 
-.custom-m{
+.nav-link {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.nav-item{
+    margin-left: 10px;
+}
+
+.card-1{
+   
     margin: 5px;
 }
 
+.card-2{
+    
+    margin: 5px;
+   
+}
+
+.card-3 {
+    padding-top: 70px;
+}
+
+.lekha{
+    padding-bottom: 80px;
+}
+
+.lekha-1{
+    padding-bottom: 20px;
+}
